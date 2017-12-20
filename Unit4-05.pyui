@@ -1,0 +1,108 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{107, 83}, {100, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{187, 234}, {150, 32}}",
+          "uuid" : "3F79DAB9-ACDE-4A33-8EBE-24159D0FD03C",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "input height",
+          "name" : "height_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{107, 133}, {100, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{187, 234}, {150, 32}}",
+          "uuid" : "32994F6D-EA18-4E28-9231-624DE2B67E25",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "input radius",
+          "name" : "radius_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{215, 133}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{162, 234}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "25150D09-A4AA-4DAF-BB17-4CF27F9A7A02",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "radius_textbox",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{215, 83}, {200, 32}}",
+        "class" : "TextField",
+        "attributes" : {
+          "font_size" : 17,
+          "frame" : "{{162, 234}, {200, 32}}",
+          "spellchecking_type" : "default",
+          "class" : "TextField",
+          "uuid" : "44CD0A43-AAF4-4CF1-8053-939CCFBD483D",
+          "alignment" : "left",
+          "autocorrection_type" : "default",
+          "name" : "height_textbox",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{107, 182}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{187, 234}, {150, 32}}",
+          "uuid" : "D8A5244B-644A-4C46-AAF6-EA1A14F43104",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "You answer is ",
+          "name" : "answer_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {524, 499}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
